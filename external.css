@@ -1,0 +1,13 @@
+*{background-color: rgb(188, 148, 100);}
+#heading{
+     color: rgb(214, 214, 153);
+     background-color: rgb(117, 138, 131);
+     font-style: italic;
+ }
+ .big-font-class{
+     font-size: 5rem;
+ }
+ h1, h2{
+     font-size: 1rem;
+     border: 10px groove black;
+ }
