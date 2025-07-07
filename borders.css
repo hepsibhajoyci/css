@@ -1,0 +1,32 @@
+*{background-color: rgb(47, 79, 79);}
+.one{
+    border-style: solid;
+    text-align: center;
+}
+.two{
+    border-style: dotted;
+    text-align: center;}
+.three{
+        border-style: dashed;
+        text-align: center;
+    }
+ .three{
+        border-style: double;
+        text-align: center;
+    }
+.four{
+        border-style: hidden;
+        text-align: center;
+    }
+.five{
+         border-style: groove;
+         text-align: center;
+    }
+.six{
+        border-style: ridge;
+        text-align: center;
+    }
+.seven{
+        border-style: inset;
+        text-align: center;
+    }
